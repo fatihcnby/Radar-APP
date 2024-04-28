@@ -8,15 +8,9 @@ export const options = {
     tr_lng: "13.977810",
     limit: "300",
   },
-  headers: {
-    "X-RapidAPI-Key": "da683f8aadmshb83e3536e5fba2dp183722jsn6923d600f7ae",
-    "X-RapidAPI-Host": "flight-radar1.p.rapidapi.com",
-  },
+  headers: {},
 };
 
 export const dOptions = {
-  headers: {
-    "X-RapidAPI-Key": "da683f8aadmshb83e3536e5fba2dp183722jsn6923d600f7ae",
-    "X-RapidAPI-Host": "flight-radar1.p.rapidapi.com",
-  },
+  headers: {},
 };
